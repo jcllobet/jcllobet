@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- ⚙ I have fun with: `.py`, `.pkl`, `.json`, `.js`, `.html`, `.css`, `.rb`, `.c`.
+- ⚙ I have fun with: `.py`, `.pkl`, `.h5`, `.json`, `.js`, `.html`, `.css`, `.rb`, `.c`.
 - 🌍 I'm mostly active within the [**SaturdaysAI Community**](https://community.saturdays.ai/home)
 - 👷🏗️ Some stuff I have built:  [TheOpenVentilator](https://theopenventilator.com/), [Saturdays.AI](https://saturdays.ai/), [Akademy.AI(Aquired)](https://www.strive.school), [BCN.ai](https://bcn.ai/), [ASL Texter](https://devpost.com/software/hackupc_asl_video_platform), [A New Sense](https://devpost.com/software/anewsense), [Vertex](https://devpost.com/software/vertex), [Omniguide](https://devpost.com/software/omniguide), [StartupWeeknd Barcelona](https://novobrief.com/startup-weekend-barcelona/6835/)
 - 🌱 Learning interests: Deep Learning, Fullstack Development, AWS Stack, Penetration Testing.
