@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Data Scientist with a passion for product and startups.
+#### I'm a Data Scientist with a passion for product, education and startups.
 
 ##### NOW
 
