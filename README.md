@@ -4,9 +4,8 @@
 
 ##### NOW
 
-- ✨ Freelancing as a Data Scientist / ML Eng.
 - 🧑‍💻 Going deep into JavaScript and MLOps;
-- 🏊🏽‍♂️🚵🏽‍♂️🏃 Training for a half-ironman (July 3rd).
+- 🏊🏽‍♂️🚵🏽‍♂️🏃 Training for an Ironman (November 20th).
 
 ##### BIO
 
