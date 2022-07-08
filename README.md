@@ -15,5 +15,5 @@
 - 🌱 Learning interests: Deep Learning, Fullstack Development, AWS Stack.
 - ⚡️ Fun fact: I'm a huge fan of Historial Fiction _-specially about Rome-_ and Science Fiction.
 
-##### CONTACT
+##### DM ME
 - 📫: [twitter.com/jcllobet](https://twitter.com/jcllobet)
