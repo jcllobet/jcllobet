@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-##### NOW
-
 - 🧑‍💻 Leaning @ Cornell. Main interests: Energy, Graph Neural Networks and MLE.
 - 🏊🏽‍♂️🚵🏽‍♂️🏃 Training for an Ironman (November 20th '23).
 - ⚙ I have fun with: `.py`, `.pkl`, `.h5`, `.json`, `.js`, `.html`, `.css`, `.rb`, `.c`.
