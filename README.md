@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🧑‍💻 Leaning @ Cornell Tech. Main interests: LLMs, CV, Graph Neural Networks and WebDev.
+- 🧑‍💻 Learning @ Cornell Tech. Main interests: LLMs, CV, Graph Neural Networks and WebDev.
 - ⚙ I have fun with: `.py`, `.js`, `.html`, `.css`, `.rb`, `.c`.
 - 👷🏗️ Some stuff I have built:  [Akademy.AI(Aquired)](https://www.strive.school), [Saturdays.AI](https://saturdays.ai/), [TheOpenVentilator](https://theopenventilator.com/) 
 - 🚧 Hackathon Projects: [ASL Texter](https://devpost.com/software/hackupc_asl_video_platform), [A New Sense](https://devpost.com/software/anewsense), [Vertex](https://devpost.com/software/vertex), [Omniguide](https://devpost.com/software/omniguide),
