@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🧑‍💻 Learning @ Cornell Tech. Main interests: LLMs, CV, Graph Neural Networks and WebDev.
-- ⚙ I have fun with: `.py`, `.js`, `.html`, `.css`, `.rb`, `.c`.
+- ⚙ I have fun with: `.py`, `.js`, `.ipynb`, `.html`, `.css`, `.rb`, `.c`.
 - 👷🏗️ Some stuff I have built:  [Akademy.AI(Aquired)](https://www.strive.school), [Saturdays.AI](https://saturdays.ai/), [TheOpenVentilator](https://theopenventilator.com/) 
 - 🚧 Hackathon Projects: [ASL Texter](https://devpost.com/software/hackupc_asl_video_platform), [A New Sense](https://devpost.com/software/anewsense), [Vertex](https://devpost.com/software/vertex), [Omniguide](https://devpost.com/software/omniguide),
 - 🤖 Hackathons I've organized: [IvyHacks](https://ivyhacks.ai/), [OSSHack](Osshack.com), [LlamaHack](https://llamahack.com), [HackGPT](https://hackgpt.devpost.com/), [HackUPC](https://hackupc.com/)
