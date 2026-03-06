@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💻 Learning @ Cornell Tech. Main interests: Voice Agents, RAG, LLMs, Graph Neural Networks, NERFs, and Web Development.
+- 🧑‍💻 Learning daily. Main interests: LLMs, Voice Agents, RAG, Graph Neural Networks, NERFs, and Web Development.
 - ⚙ I have fun with: `.py`, `.js`, `.ipynb`, `.css`, `.rb`, `.c`.
 - 👷🏗️ Some stuff I have built: [Tunerkit.dev](https://tunerkit.dev), [Akademy.AI(Aquired)](https://www.akademy.ai), [Saturdays.AI](https://saturdays.ai/), [TheOpenVentilator](https://theopenventilator.com/)
 - 🚧 Hackathon Projects: [ASL Texter](https://devpost.com/software/hackupc_asl_video_platform), [A New Sense](https://devpost.com/software/anewsense), [Vertex](https://devpost.com/software/vertex), [Omniguide](https://devpost.com/software/omniguide),
