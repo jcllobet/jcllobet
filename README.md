@@ -2,7 +2,7 @@
 
 - 🧑‍💻 Learning daily. Main interests: LLMs, Voice Agents, RAG, Graph Neural Networks, NERFs, and Web Development.
 - ⚙ I have fun with: `.py`, `.js`, `.ipynb`, `.css`, `.rb`, `.c`.
-- 👷🏗️ Some stuff I have built: [Secondly.com](secondly.com), [Steelshift.com](steelshift.com), [Tunerkit.dev](https://tunerkit.dev), [Akademy.AI(Aquired)](https://www.akademy.ai), [Saturdays.AI](https://saturdays.ai/), [TheOpenVentilator](https://theopenventilator.com/)
+- 👷🏗️ Some stuff I have built: [Secondly.com](https://www.secondly.com), [Steelshift.com](https://www.steelshift.com), [Tunerkit.dev](https://tunerkit.dev), [Akademy.AI(Aquired)](https://www.epicode.com), [Saturdays.AI](https://saturdays.ai/), [TheOpenVentilator](https://theopenventilator.com/)
 - 🚧 Hackathon Projects: [ASL Texter](https://devpost.com/software/hackupc_asl_video_platform), [A New Sense](https://devpost.com/software/anewsense), [Vertex](https://devpost.com/software/vertex), [Omniguide](https://devpost.com/software/omniguide),
 - 🤖 Hackathons I've organized: [IvyHacks](https://ivyhacks.ai/), [OSSHack](Osshack.com), [LlamaHack](https://llamahack.com), [HackGPT](https://hackgpt.devpost.com/), [HackUPC](https://hackupc.com/)
 - 👨‍🎤 Other fun projects: [BCN.ai](https://bcn.ai/), [StartupWeekend Social Impact](https://www.youtube.com/watch?v=qQ_bJA7iWuo), [Blue Startup Weekend](https://www.youtube.com/watch?v=uvsQkV-TEC4),
